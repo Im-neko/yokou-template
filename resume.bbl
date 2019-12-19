@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+
+\bibitem{example}
+Osamu Nakamura, Hiroaki Hazeyama, Yukito Ueno, and Akira Kato.
+\newblock A special purpose tld to resolve ipv4 address literal on dns64/nat64
+  environments.
+\newblock Internet-Draft draft-osamu-v6ops-ipv4-literal-in-url-02, IETF
+  Secretariat, October 2014.
+\newblock
+  \url{http://www.ietf.org/internet-drafts/draft-osamu-v6ops-ipv4-literal-in-url-02.txt}.
+
+\end{thebibliography}
