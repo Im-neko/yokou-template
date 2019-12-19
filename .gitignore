@@ -1,0 +1,7 @@
+resume.*
+*.swp
+*.pdf
+.DS_Store
+
+!resume.tex
+!resume.pdf
