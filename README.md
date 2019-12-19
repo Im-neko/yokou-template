@@ -12,8 +12,9 @@
 
 
 ## つかいかた
-1. [docker](http://docs.docker.jp/engine/installation/)をインストールする。
-2. `sh ./make.sh`
+1. `sections`の中にあるtexファイルをそれぞれ書く
+2. [docker](http://docs.docker.jp/engine/installation/)をインストールする。
+3. `sh ./make.sh`
 
 vscodeとかでリアルタイムプレビューしたい場合は別途手元の環境にTex環境を構築してください
 
